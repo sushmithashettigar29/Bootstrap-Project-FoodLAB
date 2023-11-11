@@ -1,6 +1,6 @@
 # Bootstrap-Project-FoodLAB
 
-Food website (FooLAB) - Bootsrap  
+Food website (FooLAB) - Bootstrap  
 In this project I created a website which is basically a simple food website using Bootstrap only. 
 Hope you like it!  
 
